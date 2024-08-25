@@ -33,8 +33,8 @@ Create a [GitHub Oauth Application](https://github.com/settings/applications/new
 Add the variables in the `.env` file:
 
 ```bash
-NUXT_OAUTH_GITHUB_CLIENT_ID="my-github-oauth-app-id"
-NUXT_OAUTH_GITHUB_CLIENT_SECRET="my-github-oauth-app-secret"
+NUXT_OAUTH_GITHUB_CLIENT_ID="Ov23liyl5fRM3JoPb1Ov"
+NUXT_OAUTH_GITHUB_CLIENT_SECRET="c640a7d6b73067feac5b18fd59ae0d503d0d4298"
 ```
 
 To create sealed sessions, you also need to add `NUXT_SESSION_SECRET` in the `.env` with at least 32 characters:
